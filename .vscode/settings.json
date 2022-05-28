@@ -1,0 +1,9 @@
+{
+  "C_Cpp.errorSquiggles": "Enabled",
+  "files.associations": {
+    "*.asm": "assembly",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "tuple": "cpp"
+  }
+}
